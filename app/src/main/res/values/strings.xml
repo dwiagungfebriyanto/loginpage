@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas Pertemuan 2</string>
+    <string name="login">Login</string>
+    <string name="usn">Username:</string>
+    <string name="pass">Password:</string>
+    <string name="loginBtn">Log In</string>
+    <string name="inputUsn">Masukkan username</string>
+    <string name="inputPass">Masukkan password</string>
+    <string name="loginGagal">Login Gagal</string>
+    <string name="loginSukses">Login Sukses</string>
+</resources>
